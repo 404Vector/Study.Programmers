@@ -30,7 +30,7 @@ string solution(string new_id) {
 
     string new_id_s6; // stage 6
     if (new_id_s5.size() > 15)
-    {s
+    {
         new_id_s6 = new_id_s5.substr(0, 15);
         if (new_id_s6.back() == '.')
             new_id_s6 = new_id_s6.substr(0, 14);
