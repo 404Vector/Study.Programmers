@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1845.PonKetMon", "Pr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project42577.PhoneNumberList", "Project42577.PhoneNumberList\Project42577.PhoneNumberList.vcxproj", "{BBC80375-5D0A-4051-B5D6-1EF1277B2F22}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project42578.Camoflage", "Project42578.Camoflage\Project42578.Camoflage.vcxproj", "{2766D98C-7DBD-46F0-92D8-1253EE2D3A90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{BBC80375-5D0A-4051-B5D6-1EF1277B2F22}.Release|x64.Build.0 = Release|x64
 		{BBC80375-5D0A-4051-B5D6-1EF1277B2F22}.Release|x86.ActiveCfg = Release|Win32
 		{BBC80375-5D0A-4051-B5D6-1EF1277B2F22}.Release|x86.Build.0 = Release|Win32
+		{2766D98C-7DBD-46F0-92D8-1253EE2D3A90}.Debug|x64.ActiveCfg = Debug|x64
+		{2766D98C-7DBD-46F0-92D8-1253EE2D3A90}.Debug|x64.Build.0 = Debug|x64
+		{2766D98C-7DBD-46F0-92D8-1253EE2D3A90}.Debug|x86.ActiveCfg = Debug|Win32
+		{2766D98C-7DBD-46F0-92D8-1253EE2D3A90}.Debug|x86.Build.0 = Debug|Win32
+		{2766D98C-7DBD-46F0-92D8-1253EE2D3A90}.Release|x64.ActiveCfg = Release|x64
+		{2766D98C-7DBD-46F0-92D8-1253EE2D3A90}.Release|x64.Build.0 = Release|x64
+		{2766D98C-7DBD-46F0-92D8-1253EE2D3A90}.Release|x86.ActiveCfg = Release|Win32
+		{2766D98C-7DBD-46F0-92D8-1253EE2D3A90}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
